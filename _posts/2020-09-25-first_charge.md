@@ -4,6 +4,7 @@ date: 2020-09-25 23:20:00 +0900
 title: "첫 집밥 인증샷 및 충전시간 설정"
 tags: ['아우디', 'suv', '전기차', '이트론', '집밥', '충전시간', 'audi', 'e-tron', 'wall charger']
 category: ['전기차/e-tron']
+image: /assets/img/cockpit.jpg
 ---
 
 잘 설치되었고 충전속도도 좋으네!
