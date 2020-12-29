@@ -1,7 +1,7 @@
 ---
 date: 2020-12-03 22:44:00 +0900
 title: "원하는 시간에 e-tron 충전하기 성공"
-tags: ['아우디', 'suv', '전기차', '이트론', '충전시간', 'audi', 'e-tron', 'charging' 'timer']
+tags: ['아우디', 'suv', '전기차', '이트론', '충전시간', 'audi', 'e-tron', 'charging', 'timer']
 category: ['전기차/e-tron']
 ---
 
