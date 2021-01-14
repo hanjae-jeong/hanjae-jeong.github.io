@@ -87,6 +87,11 @@ toc: true
 paginate: 10
 
 kramdown:
+  markdown: kramdown
+  highlighter: rouge
+  lsi: false
+  excerpt_separator: \n\n
+  incremental: false
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight

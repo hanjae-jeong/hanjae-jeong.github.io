@@ -66,4 +66,8 @@
 
   {% include js-selector.html %}
 
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
+
 </head>
