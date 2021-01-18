@@ -53,9 +53,11 @@ layout: default
           data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
         {%- endcapture -%}
 
+        <!-- This shows duplicate image so removed. by hanjae
         {% if page.image %}
           <img src="{{ img_placehodler }}" data-src="{{ page.image }}" class="preview-img">
         {% endif %}
+        -->
 
         <!-- Using lozad. See: <https://github.com/ApoorvSaxena/lozad.js#usage> -->
         {% if content contains '><img src=' %}
