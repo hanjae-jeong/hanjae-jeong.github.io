@@ -4,6 +4,7 @@ title: "e-tron 배터리에 대한 궁금증"
 tags: ['아우디', 'suv', '전기차', '이트론', '배터리', 'audi', 'e-tron', 'battery']
 category: ['전기차/e-tron']
 use_math: true
+image: /assets/img/03-Explo-batterie.jpg
 ---
 
 어느 날, 아버님이 

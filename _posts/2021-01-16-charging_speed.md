@@ -4,6 +4,7 @@ title: "e-tron 충전속도에 대한 궁금증"
 tags: ['아우디', 'suv', '전기차', '이트론', '배터리', '충전속도', 'audi', 'e-tron', 'battery', 'charging speed']
 category: ['전기차/e-tron']
 use_math: true
+image: /assets/img/EUBnO0RWkAA2guB.png
 ---
 
 아우디에서 e-tron을 발표하면서 전시장 및 서비스센터에 전용 충전기를 설치한다고 했었다.

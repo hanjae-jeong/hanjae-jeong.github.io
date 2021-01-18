@@ -4,6 +4,7 @@ date: 2020-08-24 21:09:00 +0900
 title: "버그-디지털 콕핏 레이아웃 변경 안 됨"
 tags: ['아우디', 'suv', '전기차', '이트론', '버그', '디지털콕핏', '프로필', 'audi', 'e-tron', 'bug', 'digital cockpit', 'profile']
 category: ['전기차/e-tron']
+image: /assets/img/Virtual-Cockpit.jpg
 ---
 ​
 

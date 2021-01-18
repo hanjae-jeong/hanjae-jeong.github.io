@@ -4,6 +4,7 @@ date: 2020-08-22 21:57:00 +0900
 title: "전기차 충전기 설치 실사"
 tags: ['아우디', 'suv', '전기차', '이트론', '대영채비', '전기차충전기', '전기인입선', 'audi', 'e-tron', '7kw', '16sq' ]
 category: ['전기차/e-tron']
+image: /assets/img/charger.jpg
 ---
 
 ![charger](/assets/img/charger.jpg)

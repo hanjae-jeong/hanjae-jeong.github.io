@@ -4,6 +4,7 @@ date: 2020-09-17 04:31:00 +0900
 title: "전기차 충전기 설치 완료"
 tags: ['아우디', 'suv', '전기차', '이트론', '전기차충전기', '한전인입비', 'audi', 'e-tron', 'wallcharger']
 category: ['전기차/e-tron']
+image: /assets/img/wallcharger_on1.jpg
 ---
 
 드디어 전기차 충전기 설치가 완료되었고 흔히 말하는 집밥을 먹일 수 있게 되었다.

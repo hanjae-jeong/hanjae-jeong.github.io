@@ -4,6 +4,7 @@ date: 2020-09-30 00:15:00 +0900
 title: "e-tron 과의 첫 장거리 결산"
 tags: ['아우디', 'suv', '전기차', '이트론', '장거리주행결과', 'audi', 'e-tron', 'long distance']
 category: ['전기차/e-tron']
+image: /assets/img/yeosu_result.jpg
 ---
 
 ​
