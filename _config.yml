@@ -66,7 +66,7 @@ disqus:
   comments: true  # boolean type, the global switch for posts comments.
   shortname: 'hanjae-jeong'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-plugin:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 
