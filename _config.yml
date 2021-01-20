@@ -68,6 +68,7 @@ disqus:
 
 plugin:
   - jekyll-sitemap
+  - jekyll-feed
 
 # Prefer color scheme setting.
 #
