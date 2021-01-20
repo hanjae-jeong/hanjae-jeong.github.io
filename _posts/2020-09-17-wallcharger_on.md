@@ -2,8 +2,8 @@
 layout: post
 date: 2020-09-17 04:31:00 +0900
 title: "전기차 충전기 설치 완료"
-tags: ['아우디', 'suv', '전기차', '이트론', '전기차충전기', '한전인입비', 'audi', 'e-tron', 'wallcharger']
-category: ['전기차/e-tron']
+tags: ['아우디', 'suv', '전기차', 'e-트론', '이트론', '전기차충전기', '한전인입비', 'audi', 'e-tron', 'wallcharger']
+category: ['전기차/e-트론']
 image: /assets/img/wallcharger_on1.jpg
 ---
 

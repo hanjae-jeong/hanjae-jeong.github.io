@@ -2,8 +2,8 @@
 layout: post
 date: 2020-09-02 00:13:00 +0900
 title: "전기차 충전기 설치"
-tags: ['아우디', 'suv', '전기차', '이트론', '전기차충전기설치', 'audi', 'e-tron', 'bug', 'wall charger']
-category: ['전기차/e-tron']
+tags: ['아우디', 'suv', '전기차', 'e-트론', '이트론', '전기차충전기설치', 'audi', 'e-tron', 'bug', 'wall charger']
+category: ['전기차/e-트론']
 image: /assets/img/install_wallcharger5.jpg
 ---
 ​

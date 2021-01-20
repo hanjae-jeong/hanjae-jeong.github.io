@@ -2,8 +2,8 @@
 layout: post
 date: 2020-08-23 00:12:00 +0900
 title: "급속 충전하기 / 충전기 빼기"
-tags: ['아우디', 'suv', '전기차', '이트론', '급속충전', '충전기빼기', '충전기뽑기', 'audi', 'e-tron']
-category: ['전기차/e-tron']
+tags: ['아우디', 'suv', '전기차', 'e-트론', '이트론', '급속충전', '충전기빼기', '충전기뽑기', 'audi', 'e-tron']
+category: ['전기차/e-트론']
 image: /assets/img/port.jpg
 ---
 

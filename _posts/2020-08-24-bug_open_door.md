@@ -2,8 +2,8 @@
 layout: post
 date: 2020-08-24 22:41:00 +0900
 title: "버그-뒷문이 밖에서 안 열림"
-tags: ['아우디', 'suv', '전기차', '이트론', '버그', '문 안 열림', '차일드락', '키즈락', 'audi', 'e-tron', 'bug', 'door', 'childlock', 'kidslock']
-category: ['전기차/e-tron']
+tags: ['아우디', 'suv', '전기차', 'e-트론', '이트론', '버그', '문 안 열림', '차일드락', '키즈락', 'audi', 'e-tron', 'bug', 'door', 'childlock', 'kidslock']
+category: ['전기차/e-트론']
 image: /assets/img/childlock.jpg
 ---
 ​
@@ -12,7 +12,7 @@ image: /assets/img/childlock.jpg
 ​![lock](/assets/img/childlock.jpg)
 
 
-e-tron은 차일드락 버튼을 누르면 뒷좌석 창문 뿐만 아니라, 공조기 터치, 뒷문 열림이 전부 락(lock)이 걸린다. 오호~ 역시 요즘 차들은 많이 편해졌구나 하며 다녔었다. 
+e-트론은 차일드락 버튼을 누르면 뒷좌석 창문 뿐만 아니라, 공조기 터치, 뒷문 열림이 전부 락(lock)이 걸린다. 오호~ 역시 요즘 차들은 많이 편해졌구나 하며 다녔었다. 
 
 ​
 

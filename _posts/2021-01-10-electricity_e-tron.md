@@ -1,8 +1,8 @@
 ---
 date: 2021-01-10 22:06:00 +0900
 title: "e-tron 배터리에 대한 궁금증"
-tags: ['아우디', 'suv', '전기차', '이트론', '배터리', 'audi', 'e-tron', 'battery']
-category: ['전기차/e-tron']
+tags: ['아우디', 'suv', '전기차', 'e-트론', '이트론', '배터리', 'audi', 'e-tron', 'battery']
+category: ['전기차/e-트론']
 use_math: true
 image: /assets/img/03-Explo-batterie.jpg
 ---
@@ -27,14 +27,14 @@ image: /assets/img/03-Explo-batterie.jpg
 .
 .
 
-e-tron의 배터리 전압은 얼마지? 95kwh는 뭐야?
+e-트론의 배터리 전압은 얼마지? 95kwh는 뭐야?
 
-구글에 "e-tron battery voltage" 로 검색을 해보니 396V 로 나온다.
+구글에 "e-트론 battery voltage" 로 검색을 해보니 396V 로 나온다.
 
 그리고 배터리는 36개의 모듈이다.
 1개의 모듈에는 12개의 배터리 셀이 있다.
 
-즉, e-tron에는 $36 \times 12 = 432$ 개의 배터리 셀이 있다.
+즉, e-트론에는 $36 \times 12 = 432$ 개의 배터리 셀이 있다.
 
 그리고 아우디 공식 홈페이지에서는 자료를 못 찾았는데 아래 이미지를 표시한 사이트가 많이 있다.
 
