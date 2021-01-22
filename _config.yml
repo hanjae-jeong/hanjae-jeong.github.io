@@ -12,9 +12,7 @@ title: 인아연아_아빠                          # the main title
 tagline: 이것저것  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  인아연아 아빠의 이것저것.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://hanjae-jeong.github.io'
@@ -40,7 +38,7 @@ social:
     - https://www.facebook.com/hanjae.jeong
     - https://www.linkedin.com/in/hanjae-jeong
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: RloPzE0xNATJQAH-e5tSEEfhfeHmyv5-WNrQlkLLFIE # change to your verification string
 # --------------------------
 
 
@@ -52,7 +50,7 @@ baseurl: ''
 timezone: Asia/Seoul
 
 google_analytics:
-  id: 'G-JGRSBG3FEH'          # Fill with your Google Analytics ID
+  id: 'G-ZFKHW10EGD'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
