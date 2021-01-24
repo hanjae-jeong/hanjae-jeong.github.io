@@ -10,7 +10,7 @@ use_math: true
 
 e-트론은 환경부 인증 상온에서 307km, 저온에서 306km 인증을 받았다.
 
-{% preview https://hanjae-jeong.github.io/posts/distance/ %}
+[주행거리: 상온 307km 저온 306km !?](https://hanjae-jeong.github.io/posts/distance/)
 
 상온과 저온의 주행거리 차이가 1km 밖에 안 나길래 뭔가 획기적인 배터리 관리 기술이 적용된 것 같았다.
 
